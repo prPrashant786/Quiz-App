@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ACER/Project quiz/app/src/main/res/drawable-v24/selectes_option_border_bg.xml" value="0.158" />
         <entry key="..\:/Users/ACER/Project quiz/app/src/main/res/drawable/default_option_border_bg.xml" value="0.1525" />
         <entry key="..\:/Users/ACER/Project quiz/app/src/main/res/layout/activity_main.xml" value="0.23076923076923078" />
         <entry key="..\:/Users/ACER/Project quiz/app/src/main/res/layout/activity_questionact.xml" value="0.2234375" />
+        <entry key="..\:/Users/ACER/Project quiz/app/src/main/res/layout/dialog_custome_progress.xml" value="0.2234375" />
       </map>
     </option>
   </component>
